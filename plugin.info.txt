@@ -1,0 +1,7 @@
+base   linkscollection
+author Anna Dabrowska
+email  dokuwiki@cosmocode.de
+date   2021-11-29
+name   linkscollection plugin
+desc   Create a link collection from site tree
+url    https://dokuwiki.org/plugin/linkscollection
